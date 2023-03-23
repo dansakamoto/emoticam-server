@@ -6,6 +6,6 @@ Anytime a user types something to imply they’re emoting in real life, it takes
 This is the server-side software.
 * docking.php handles receiving images uploaded by the desktop app
 * index.php handles adding received images to the database + displaying all images
-* receiver/poster.php handles sending new posts to Twitter.
+* receiver/poster.php handles sending new posts to Twitter (now defunct).
 
 [The client app can be found here.](https://github.com/dansakamoto/emoticam-app)
