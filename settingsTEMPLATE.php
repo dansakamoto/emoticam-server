@@ -20,7 +20,7 @@ $users = array(
 
 // just in case.
 // move a user from $users to $blocked to prevent
-// their uploads from appearing on the site
+// their uploads from being processed
 $blocked = array(
 	"USER4NAME" => "USER4ID", // 4
 	"USER5NAME" => "USER5ID", // 5
